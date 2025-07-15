@@ -25,10 +25,6 @@ The markdown and notebook versions were originally generated programmatically fr
 
 This work (including my solutions) is licensed under the MIT License.
 
-## Variants in Other Languages
-
-- Julia: [100 Julia Exercises](https://github.com/JuliaComputing/100-exercises)
-
 ---
 
 **Author**: Athulya Anil  
